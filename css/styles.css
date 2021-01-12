@@ -1,0 +1,25 @@
+body {
+  height: 100000px;
+}
+.centered-image {
+  max-width: 50%;
+  height: auto;
+}
+.image-class{
+  max-width: 40%;
+  float:left;
+  height: auto;
+}
+
+.sidebar {
+  float:right;
+  background-color: maroon;
+  height: 100%;
+  color: antiquewhite;
+}
+
+
+.centered-image {
+  width: 50%;
+  height: auto;
+}
